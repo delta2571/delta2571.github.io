@@ -11,6 +11,9 @@ h2 {
   color: #cdd6f4;
 }
 
-pre {
-  color: #cdd6f4;
+.ascii {
+          font-family: monospace;
+          margin-top: 20px;
+          text-align: center;
+          font-size: 16px; 
 }
