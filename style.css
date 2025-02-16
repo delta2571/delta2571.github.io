@@ -29,3 +29,8 @@ h2 {
 .gifs {
             margin-top: 20px;
         }
+
+ .gifs img {
+            margin: 5px;
+            border: 2px solid white;
+        }
