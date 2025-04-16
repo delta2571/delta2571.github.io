@@ -1,0 +1,14 @@
+name:TestGame
+author:delta
+desc:idk
+created:16/04/2025
+version:0.1
+background:https://get.wallhere.com/photo/cat-animals-nose-kittens-whiskers-mammals-pet-fauna-mammal-1920x1200-px-vertebrate-close-up-cat-like-mammal-snout-small-to-medium-sized-cats-tabby-cat-domestic-short-haired-cat-bengal-european-shorthair-american-shorthair-526584.jpg
+building cost increase:110%
+building cost refund:50%
+spritesheet:icons, 48 by 48, https://get.wallhere.com/photo/cat-animals-nose-kittens-whiskers-mammals-pet-fauna-mammal-1920x1200-px-vertebrate-close-up-cat-like-mammal-snout-small-to-medium-sized-cats-tabby-cat-domestic-short-haired-cat-bengal-european-shorthair-american-shorthair-526584.jpg
+stylesheet:stuff/bigBlue.css
+header:hi
+footer:hi
+use default
+
